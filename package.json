@@ -1,0 +1,25 @@
+{
+  "name": "project-cakes",
+  "version": "1.0.0",
+  "description": "A simple crud app on cakes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "express",
+    "cakes",
+    "node",
+    "mongodb",
+    "router"
+  ],
+  "author": "devnrj07",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  }
+}
