@@ -39,7 +39,7 @@ cd into the directory after cloning and type
 
 
 ## How to try it ?
-Open http://localhost:1337 to see the results.
+Open http://localhost:8080 to see the results.
 
 ```
 
